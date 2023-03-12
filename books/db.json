@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Harry potter. Skumt ändå med close/delete",
+      "id": 1
+    },
+    {
+      "title": "Men nu är vi igång",
+      "id": 2
+    },
+    {
+      "title": "Patrik",
+      "id": 5
+    }
+  ]
+}

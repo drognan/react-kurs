@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Harry potter",
+      "id": 1
+    },
+    {
+      "title": "Stefan",
+      "id": 2
+    },
+    {
+      "title": "Monster",
+      "id": 3
+    },
+    {
+      "title": "Patrik",
+      "id": 4
+    },
+    {
+      "title": "mongo",
+      "id": 5
+    }
+  ]
+}

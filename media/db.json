@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Alfred Hettinger",
+      "id": 2
+    },
+    {
+      "name": "Jermaine Kautzer",
+      "id": 3
+    },
+    {
+      "name": "Lorene Heathcote",
+      "id": 4
+    },
+    {
+      "name": "Annie Kerluke Jr.",
+      "id": 5
+    },
+    {
+      "name": "Jo Zemlak",
+      "id": 6
+    },
+    {
+      "name": "Randy Kiehn",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Generic Steel Cheese",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "title": "Practical Concrete Computer",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Metal Pizza",
+      "id": 12
+    },
+    {
+      "userId": 7,
+      "title": "Awesome Soft Pants",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Granite Sausages",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Granite Shirt",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Granite Shirt",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Frozen Chair",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Frozen Towels",
+      "id": 26
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11004",
+      "id": 1
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46577",
+      "id": 3
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87256",
+      "id": 9
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64674",
+      "id": 10
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11842",
+      "id": 11
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=18870",
+      "id": 12
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46041",
+      "id": 13
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=24919",
+      "id": 14
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51250",
+      "id": 15
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51896",
+      "id": 16
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=24350",
+      "id": 17
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4565",
+      "id": 18
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87171",
+      "id": 19
+    }
+  ]
+}
